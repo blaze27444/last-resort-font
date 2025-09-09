@@ -57,13 +57,13 @@
   <head>
     <!-- Most of this table will be recalculated by the compiler -->
     <tableVersion value="1.0"/>
-    <fontRevision value="16.000"/>
+    <fontRevision value="17.000"/>
     <checkSumAdjustment value="0x4db8e09"/>
     <magicNumber value="0x5f0f3cf5"/>
     <flags value="01000000 00101011"/>
     <unitsPerEm value="2048"/>
-    <created value="Tue Sep 10 00:00:00 2024"/>
-    <modified value="Tue Sep 10 00:00:00 2024"/>
+    <created value="Tue Sep 9 00:00:00 2025"/>
+    <modified value="Tue Sep 9 00:00:00 2025"/>
     <xMin value="128"/>
     <yMin value="-419"/>
     <xMax value="2155"/>

@@ -1,5 +1,5 @@
 table head {
-  FontRevision 16.000;
+  FontRevision 17.000;
 } head;
 
 table hhea {
@@ -9,11 +9,11 @@ table hhea {
 } hhea;
 
 table name {
-  nameid 0 "\00A9 2020\20132024 Unicode, Inc.";
+  nameid 0 "\00A9 2020\20132025 Unicode, Inc.";
   nameid 1 "Last Resort High-Efficiency";
-  nameid 3 "Last Resort High-Efficiency; 16.000 (Unicode Version 16.0.0); 2024-09-10";
+  nameid 3 "Last Resort High-Efficiency; 17.000 (Unicode Version 17.0.0); 2025-09-09";
   nameid 4 "Last Resort High-Efficiency";
-  nameid 5 "16.000 (Unicode Version 16.0.0)";
+  nameid 5 "17.000 (Unicode Version 17.0.0)";
   nameid 8 "Unicode, Inc.";
   nameid 9 "Original design by Apple Inc.; block additions by Michael Everson, Apple Inc., and Unicode, Inc.";
   nameid 10 "The Last Resort font is used to provide basic Unicode block information for all encoded characters in the standard. Glyphs correspond to Unicode blocks. The block name and hexadecimal range values can be viewed around the border of the glyph at large sizes.";

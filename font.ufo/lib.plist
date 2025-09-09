@@ -204,6 +204,7 @@
 		<string>lastresorthatran</string>
 		<string>lastresortphoenician</string>
 		<string>lastresortlydian</string>
+		<string>lastresortsidetic</string>
 		<string>lastresortmeroitichieroglyphs</string>
 		<string>lastresortmeroiticcursive</string>
 		<string>lastresortkharoshthi</string>
@@ -255,11 +256,13 @@
 		<string>lastresortucasexta</string>
 		<string>lastresortpaucinhau</string>
 		<string>lastresortdevanagariexta</string>
+		<string>lastresortsharadasupplement</string>
 		<string>lastresortsunuwar</string>
 		<string>lastresortbhaiksuki</string>
 		<string>lastresortmarchen</string>
 		<string>lastresortmasaramgondi</string>
 		<string>lastresortgunjalagondi</string>
+		<string>lastresorttolongsiki</string>
 		<string>lastresortmakasar</string>
 		<string>lastresortkawi</string>
 		<string>lastresortlisusupplement</string>
@@ -280,12 +283,14 @@
 		<string>lastresortpahawhhmong</string>
 		<string>lastresortkiratrai</string>
 		<string>lastresortmedefaidrin</string>
+		<string>lastresortberiaerfe</string>
 		<string>lastresortmiao</string>
 		<string>lastresortideographicsymbolsandpunctuation</string>
 		<string>lastresorttangut</string>
 		<string>lastresorttangutcomponents</string>
 		<string>lastresortkhitansmallscript</string>
 		<string>lastresorttangutsupplement</string>
+		<string>lastresorttangutcomponentssupplement</string>
 		<string>lastresortkanaextb</string>
 		<string>lastresortkanasuppl</string>
 		<string>lastresortkanaexta</string>
@@ -294,6 +299,7 @@
 		<string>lastresortduployan</string>
 		<string>lastresortshorthandformatcntrls</string>
 		<string>lastresortlegacycomputingsymbsupp</string>
+		<string>lastresortmiscsymbolssupplement</string>
 		<string>lastresortznamennymusic</string>
 		<string>lastresortbyzantinemusic</string>
 		<string>lastresortmusicalsymbols</string>
@@ -312,6 +318,7 @@
 		<string>lastresortwancho</string>
 		<string>lastresortnagmundari</string>
 		<string>lastresortolonal</string>
+		<string>lastresorttaiyo</string>
 		<string>lastresortethiopicextb</string>
 		<string>lastresortmendekikakui</string>
 		<string>lastresortadlam</string>
@@ -347,6 +354,7 @@
 		<string>lastresortnotdefplanethree</string>
 		<string>lastresortcjkextg</string>
 		<string>lastresortcjkexth</string>
+		<string>lastresortcjkextj</string>
 		<string>lastresortnotaunicode3</string>
 		<string>lastresortnotdefplanefour</string>
 		<string>lastresortnotaunicode4</string>

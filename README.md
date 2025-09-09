@@ -9,21 +9,21 @@
 
 ## Downloading the fonts
 
-The latest pre-built binaries of the *Last Resort* fonts, which correspond to [Unicode Version 16.0.0](https://www.unicode.org/versions/Unicode16.0.0/), can be easily downloaded from the [Latest Release](https://github.com/unicode-org/last-resort-font/releases/latest/). These fonts may be updated for future versions of the Unicode Standard as time and resources permit.
+The latest pre-built binaries of the *Last Resort* fonts, which correspond to [Unicode Version 17.0.0](https://www.unicode.org/versions/Unicode17.0.0/), can be easily downloaded from the [Latest Release](https://github.com/unicode-org/last-resort-font/releases/latest/). These fonts may be updated for future versions of the Unicode Standard as time and resources permit.
 
 ## Last Resort &amp; Last Resort High-Efficiency
 
 This repository includes two versions of the *Last Resort* font: *Last Resort* and *Last Resort High-Efficiency*. Although both fonts can be installed at the same time—because they have different names—you are encouraged to download and install only the one that is expected to work in the environments that you use:
 
-* The file *LastResort-Regular.ttf* is a font named *Last Resort*, and its 'cmap' table includes a [Format 12](https://docs.microsoft.com/en-us/typography/opentype/spec/cmap#format-12-segmented-coverage) (*Segmented coverage*) subtable that is supported in virtually all modern environments. This font is 8MB and includes 5,372 glyphs. Download and install this font if you are unsure which one to use.
+* The file *LastResort-Regular.ttf* is a font named *Last Resort*, and its 'cmap' table includes a [Format 12](https://docs.microsoft.com/en-us/typography/opentype/spec/cmap#format-12-segmented-coverage) (*Segmented coverage*) subtable that is supported in virtually all modern environments. This font is 9MB and includes 5,691 glyphs. Download and install this font if you are unsure which one to use.
 
-* The file *LastResortHE-Regular.ttf* is a font named *Last Resort High-Efficiency*, and its 'cmap' table includes the more efficient—for this type of font—[Format 13](https://docs.microsoft.com/en-us/typography/opentype/spec/cmap#format-13-many-to-one-range-mappings) (*Many-to-one range mappings*) subtable that may not be supported in some environments, such as most Windows and Adobe apps. Therefore, this font, which is considerably smaller (500K) and with fewer glyphs (362), requires greater care when downloaded and installed.
+* The file *LastResortHE-Regular.ttf* is a font named *Last Resort High-Efficiency*, and its 'cmap' table includes the more efficient—for this type of font—[Format 13](https://docs.microsoft.com/en-us/typography/opentype/spec/cmap#format-13-many-to-one-range-mappings) (*Many-to-one range mappings*) subtable that may not be supported in some environments, such as most Windows and Adobe apps. Therefore, this font, which is considerably smaller (600K) and with fewer glyphs (381), requires greater care when downloaded and installed.
 
 Both fonts’ 'cmap' tables include a [Format 4](https://docs.microsoft.com/en-us/typography/opentype/spec/cmap#format-4-segment-mapping-to-delta-values) (*Segment mapping to delta values*) subtable, which is a Windows OS requirement. That of the *Last Resort High-Efficiency* font is a stub (aka empty) subtable.
 
 ## Description
 
-The glyphs of the *Last Resort* fonts are used as the backup of “last resort” to any other font: if a font cannot represent any particular Unicode character, the appropriate “missing” glyph from the *Last Resort* fonts is displayed instead. This provides users with the ability to more easily discern what type of character it is, and provides a clue as to what type of font they would need to display the characters properly. For more information, see *The Unicode Standard*, [Section 5.3](https://unicode.org/versions/Unicode16.0.0/core-spec/chapter-5/#G7730), *Unknown and Missing Characters*.
+The glyphs of the *Last Resort* fonts are used as the backup of “last resort” to any other font: if a font cannot represent any particular Unicode character, the appropriate “missing” glyph from the *Last Resort* fonts is displayed instead. This provides users with the ability to more easily discern what type of character it is, and provides a clue as to what type of font they would need to display the characters properly. For more information, see *The Unicode Standard*, [Section 5.3](https://unicode.org/versions/Unicode17.0.0/core-spec/chapter-5/#G7730), *Unknown and Missing Characters*.
 
 Overall, there are a number of advantages to using the *Last Resort* fonts for unrepresentable characters:
 
@@ -56,7 +56,7 @@ Although the *Last Resort Font* repository is considered to be stable with no gu
 
 ### Copyright & Licenses
 
-Copyright © 1998-2024 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
+Copyright © 1998-2025 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
 
 A CLA is required to contribute to this project - please refer to the [CONTRIBUTING.md](https://github.com/unicode-org/.github/blob/main/.github/CONTRIBUTING.md) file (or start a Pull Request) for more information.
 

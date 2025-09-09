@@ -402,6 +402,8 @@
 	<string>lastresortphoenician.glif</string>
 	<key>lastresortlydian</key>
 	<string>lastresortlydian.glif</string>
+	<key>lastresortsidetic</key>
+	<string>lastresortsidetic.glif</string>
 	<key>lastresortmeroitichieroglyphs</key>
 	<string>lastresortmeroitichieroglyphs.glif</string>
 	<key>lastresortmeroiticcursive</key>
@@ -504,6 +506,8 @@
 	<string>lastresortpaucinhau.glif</string>
 	<key>lastresortdevanagariexta</key>
 	<string>lastresortdevanagariexta.glif</string>
+	<key>lastresortsharadasupplement</key>
+	<string>lastresortsharadasupplement.glif</string>
 	<key>lastresortsunuwar</key>
 	<string>lastresortsunuwar.glif</string>
 	<key>lastresortbhaiksuki</key>
@@ -514,6 +518,8 @@
 	<string>lastresortmasaramgondi.glif</string>
 	<key>lastresortgunjalagondi</key>
 	<string>lastresortgunjalagondi.glif</string>
+	<key>lastresorttolongsiki</key>
+	<string>lastresorttolongsiki.glif</string>
 	<key>lastresortmakasar</key>
 	<string>lastresortmakasar.glif</string>
 	<key>lastresortkawi</key>
@@ -554,6 +560,8 @@
 	<string>lastresortkiratrai.glif</string>
 	<key>lastresortmedefaidrin</key>
 	<string>lastresortmedefaidrin.glif</string>
+	<key>lastresortberiaerfe</key>
+	<string>lastresortberiaerfe.glif</string>
 	<key>lastresortmiao</key>
 	<string>lastresortmiao.glif</string>
 	<key>lastresortideographicsymbolsandpunctuation</key>
@@ -566,6 +574,8 @@
 	<string>lastresortkhitansmallscript.glif</string>
 	<key>lastresorttangutsupplement</key>
 	<string>lastresorttangutsupplement.glif</string>
+	<key>lastresorttangutcomponentssupplement</key>
+	<string>lastresorttangutcomponentssupplement.glif</string>
 	<key>lastresortkanaextb</key>
 	<string>lastresortkanaextb.glif</string>
 	<key>lastresortkanasuppl</key>
@@ -582,6 +592,8 @@
 	<string>lastresortshorthandformatcntrls.glif</string>
 	<key>lastresortlegacycomputingsymbsupp</key>
 	<string>lastresortlegacycomputingsymbsupp.glif</string>
+	<key>lastresortmiscsymbolssupplement</key>
+	<string>lastresortmiscsymbolssupplement.glif</string>
 	<key>lastresortznamennymusic</key>
 	<string>lastresortznamennymusic.glif</string>
 	<key>lastresortbyzantinemusic</key>
@@ -618,6 +630,8 @@
 	<string>lastresortnagmundari.glif</string>
 	<key>lastresortolonal</key>
 	<string>lastresortolonal.glif</string>
+	<key>lastresorttaiyo</key>
+	<string>lastresorttaiyo.glif</string>
 	<key>lastresortethiopicextb</key>
 	<string>lastresortethiopicextb.glif</string>
 	<key>lastresortmendekikakui</key>
@@ -688,6 +702,8 @@
 	<string>lastresortcjkextg.glif</string>
 	<key>lastresortcjkexth</key>
 	<string>lastresortcjkexth.glif</string>
+	<key>lastresortcjkextj</key>
+	<string>lastresortcjkextj.glif</string>
 	<key>lastresortnotaunicode3</key>
 	<string>lastresortnotaunicode3.glif</string>
 	<key>lastresortnotdefplanefour</key>
